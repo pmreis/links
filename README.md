@@ -8,6 +8,7 @@
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
+- [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai/videos)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
 - [minutephysics](https://www.youtube.com/user/minutephysics/videos)
 - [engineerguy](https://www.youtube.com/c/engineerguyvideo/videos)
@@ -22,6 +23,9 @@
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [iPhonedo](https://www.youtube.com/c/iPhonedo/videos)
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
+- [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
+- [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
+- [Munro Live](https://www.youtube.com/c/MunroLive/videos)
 
 ### Tesla
 
@@ -31,6 +35,7 @@
 
 ### Other
 
+- [Pedro Reis](https://www.youtube.com/user/pedrombreis/videos)
 - [The School of Life](https://www.youtube.com/c/theschooloflifetv/videos)
 - [Khan Academy](https://www.youtube.com/user/khanacademy/videos)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
