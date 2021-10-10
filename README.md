@@ -10,6 +10,7 @@ This repo only contais URLs
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
+- [Eddie Woo](https://www.youtube.com/c/misterwootube/videos)
 - [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai/videos)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
 - [minutephysics](https://www.youtube.com/user/minutephysics/videos)
@@ -21,23 +22,34 @@ This repo only contais URLs
 
 ### Tech
 
-- [Engineering Explained](https://www.youtube.com/user/EngineeringExplained/videos)
-- [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [iPhonedo](https://www.youtube.com/c/iPhonedo/videos)
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
-- [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
-- [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
-- [Munro Live](https://www.youtube.com/c/MunroLive/videos)
+- [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
+- [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 
-### Tesla
+### Tesla / EVs / Cars
 
 - [Solving The Money Problem](https://www.youtube.com/c/SolvingTheMoneyProblem/videos)
+- [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
+- [Engineering Explained](https://www.youtube.com/user/EngineeringExplained/videos)
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
+- [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
+- [Munro Live](https://www.youtube.com/c/MunroLive/videos)
+- [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [Sam Alexander](https://www.youtube.com/c/SamAlexanderYouTube/videos)
+
+### Video art
+
+- [Jacob + Katie Schwarz](https://www.youtube.com/c/JacobKatieSchwarz/videos)
+- [4K Relaxation Channel](https://www.youtube.com/c/RelaxationChannel/videos)
 
 ### Other
 
 - [Pedro Reis](https://www.youtube.com/user/pedrombreis/videos)
+- [TED](https://www.youtube.com/c/TED/videos)
+- [TED-Ed](https://www.youtube.com/teded/videos)
+- [Talks at Google](https://www.youtube.com/c/talksatgoogle/videos)
+- [Vox](https://www.youtube.com/c/Vox/videos)
 - [The School of Life](https://www.youtube.com/c/theschooloflifetv/videos)
 - [Khan Academy](https://www.youtube.com/user/khanacademy/videos)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
