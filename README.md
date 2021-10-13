@@ -10,6 +10,7 @@ This repo only contais URLs
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
+- [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)
 - [Eddie Woo](https://www.youtube.com/c/misterwootube/videos)
 - [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai/videos)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
