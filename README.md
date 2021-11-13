@@ -34,10 +34,12 @@ This repo only contais URLs
 - [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
 - [Engineering Explained](https://www.youtube.com/user/EngineeringExplained/videos)
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
+- [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
 - [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
 - [Munro Live](https://www.youtube.com/c/MunroLive/videos)
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [Sam Alexander](https://www.youtube.com/c/SamAlexanderYouTube/videos)
+- [The Tesla Space](https://www.youtube.com/channel/UCJjAIBWeY022ZNj_Cp_6wAw/videos)
 
 ### Video art
 
@@ -57,4 +59,4 @@ This repo only contais URLs
 - [Knowing Better](https://www.youtube.com/c/KnowingBetter/videos)
 - [J.J. McCullough](https://www.youtube.com/c/JJMcCullough/videos)
 - [MOTOTREK](https://www.youtube.com/c/MOTOTREK/videos)
-
+- [The Juice Media](https://www.youtube.com/user/thejuicemedia/videos)
