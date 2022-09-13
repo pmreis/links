@@ -27,6 +27,7 @@ This repo only contais URLs
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
+- [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 
 ### Tesla / EVs / Cars
 
