@@ -28,6 +28,7 @@ This repo only contais URLs
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
+- [Fireship](https://www.youtube.com/@Fireship/videos)
 
 ### Tesla / EVs / Cars
 
