@@ -36,7 +36,7 @@ This repo only contais URLs
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
 - [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
-- [Cleanerwatt](https://www.youtube.com/cleanerwatt)
+- [Cleanerwatt](https://www.youtube.com/cleanerwatt/videos)
 - [Munro Live](https://www.youtube.com/c/MunroLive/videos)
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
@@ -65,3 +65,4 @@ This repo only contais URLs
 - [J.J. McCullough](https://www.youtube.com/c/JJMcCullough/videos)
 - [MOTOTREK](https://www.youtube.com/c/MOTOTREK/videos)
 - [The Juice Media](https://www.youtube.com/user/thejuicemedia/videos)
+- [Russell Brand](https://www.youtube.com/c/RussellBrand/videos)
