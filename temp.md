@@ -6,4 +6,4 @@
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Comet Haley
+[ ] Comet Haley
