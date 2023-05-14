@@ -38,7 +38,7 @@ This repo only contais URLs
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
 - [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
-- [Cleanerwatt](https://www.youtube.com/cleanerwatt/videos)
+- [Cleanerwatt](https://www.youtube.com/c/cleanerwatt/videos)
 - [Munro Live](https://www.youtube.com/c/MunroLive/videos)
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
