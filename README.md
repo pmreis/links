@@ -36,6 +36,7 @@ This repo only contais URLs
 - [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
 - [Engineering Explained](https://www.youtube.com/user/EngineeringExplained/videos)
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
+- [Electrified](https://www.youtube.com/@DillonLoomis22/videos)
 - [Fully Charged Show](https://www.youtube.com/@fullychargedshow/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
 - [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
