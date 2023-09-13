@@ -28,7 +28,7 @@ This repo only contais URLs
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
-- [Fireship](https://www.youtube.com/@Fireship/videos)
+- [Fireship](https://www.youtube.com/c/Fireship/videos)
 
 ### Tesla / EVs / Cars
 
@@ -36,8 +36,8 @@ This repo only contais URLs
 - [Now You Know](https://www.youtube.com/c/NowYouKnowChannel/videos)
 - [Engineering Explained](https://www.youtube.com/user/EngineeringExplained/videos)
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
-- [Electrified](https://www.youtube.com/@DillonLoomis22/videos)
-- [Fully Charged Show](https://www.youtube.com/@fullychargedshow/videos)
+- [Electrified](https://www.youtube.com/channel/UCDl5YK8CD2fY267VdDHLgfg/videos)
+- [Fully Charged Show](https://www.youtube.com/c/fullychargedshow/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
 - [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
 - [Cleanerwatt](https://www.youtube.com/c/cleanerwatt/videos)
