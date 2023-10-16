@@ -39,6 +39,7 @@ This repo only contais URLs
 - [Electrified](https://www.youtube.com/channel/UCDl5YK8CD2fY267VdDHLgfg/videos)
 - [Fully Charged Show](https://www.youtube.com/c/fullychargedshow/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
+- [The Electric Viking](https://www.youtube.com/channel/UCjzi56cxvmEDwjo1Bd2Yxpg/videos)
 - [Tesla Daily](https://www.youtube.com/c/TeslaDaily/videos)
 - [Cleanerwatt](https://www.youtube.com/c/cleanerwatt/videos)
 - [Munro Live](https://www.youtube.com/c/MunroLive/videos)
