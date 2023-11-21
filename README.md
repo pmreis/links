@@ -29,6 +29,7 @@ This repo only contais URLs
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
 ### Tesla / EVs / Cars
 
