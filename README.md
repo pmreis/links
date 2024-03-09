@@ -20,6 +20,7 @@ This repo only contais URLs
 - [Socratica](https://www.youtube.com/c/Socratica/videos)
 - [ViaScience](https://www.youtube.com/c/viascience/videos)
 - [Vsauce](https://www.youtube.com/c/vsauce1/videos)
+- [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA/videos)
 
 ### Tech
 
@@ -30,6 +31,7 @@ This repo only contais URLs
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
+- [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
 
 ### Tesla / EVs / Cars
 
