@@ -8,6 +8,7 @@ This repo only contais URLs
 
 - [Veritasium](https://www.youtube.com/c/veritasium/videos)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
+- [Theories of Everything](https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/videos)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
 - [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)
@@ -21,6 +22,7 @@ This repo only contais URLs
 - [ViaScience](https://www.youtube.com/c/viascience/videos)
 - [Vsauce](https://www.youtube.com/c/vsauce1/videos)
 - [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA/videos)
+- [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
 
 ### Tech
 
