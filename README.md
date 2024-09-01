@@ -9,6 +9,7 @@ This repo only contais URLs
 - [Veritasium](https://www.youtube.com/c/veritasium/videos)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 - [Theories of Everything](https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/videos)
+- [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
 - [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)
