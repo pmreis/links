@@ -8,22 +8,26 @@ This repo only contais URLs
 
 - [Veritasium](https://www.youtube.com/c/veritasium/videos)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
-- [Theories of Everything](https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/videos)
-- [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA/videos)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
-- [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)
 - [Eddie Woo](https://www.youtube.com/c/misterwootube/videos)
 - [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai/videos)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
 - [minutephysics](https://www.youtube.com/user/minutephysics/videos)
 - [engineerguy](https://www.youtube.com/c/engineerguyvideo/videos)
-- [Seeker](https://www.youtube.com/c/Seeker/videos)
 - [Socratica](https://www.youtube.com/c/Socratica/videos)
 - [ViaScience](https://www.youtube.com/c/viascience/videos)
+
+### Multidisciplinary Knowledge
+
+- [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)
+- [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA/videos)
+- [Theories of Everything](https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/videos)
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
+- [Seeker](https://www.youtube.com/c/Seeker/videos)
 - [Vsauce](https://www.youtube.com/c/vsauce1/videos)
-- [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA/videos)
-- [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
+- [Jeffrey Kaplan](https://www.youtube.com/channel/UC_hukbByJP7OZ3Xm2tszacQ/videos)
+- [Vox](https://www.youtube.com/c/Vox/videos)
+- [TED-Ed](https://www.youtube.com/teded/videos)
 
 ### Tech
 
@@ -35,6 +39,7 @@ This repo only contais URLs
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
+- [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
 
 ### Tesla / EVs / Cars
 
@@ -66,10 +71,8 @@ This repo only contais URLs
 
 - [Pedro Reis](https://www.youtube.com/user/pedrombreis/videos)
 - [TED](https://www.youtube.com/c/TED/videos)
-- [TED-Ed](https://www.youtube.com/teded/videos)
 - [John Coogan](https://www.youtube.com/c/JohnCooganPlus/videos)
 - [Talks at Google](https://www.youtube.com/c/talksatgoogle/videos)
-- [Vox](https://www.youtube.com/c/Vox/videos)
 - [The School of Life](https://www.youtube.com/c/theschooloflifetv/videos)
 - [Khan Academy](https://www.youtube.com/user/khanacademy/videos)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
