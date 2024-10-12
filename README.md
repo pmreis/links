@@ -37,6 +37,7 @@ This repo only contais URLs
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
+- [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ/videos)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
 - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
@@ -61,6 +62,7 @@ This repo only contais URLs
 - [BestInTESLA](https://www.youtube.com/c/BestInTESLA/videos)
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
 - [TeslaManuals](https://www.youtube.com/c/TeslaManuals/videos)
+- [Tesla](https://www.youtube.com/channel/UC5WjFrtBdufl6CZojX3D8dQ/videos)
 
 ### Video art
 
