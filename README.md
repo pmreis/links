@@ -41,6 +41,7 @@ This repo only contais URLs
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
 - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
+- [NTDEV](https://www.youtube.com/channel/UCJCndcVLDmRFGArMVtAxEPA/videos)
 
 ### Tesla / EVs / Cars
 
