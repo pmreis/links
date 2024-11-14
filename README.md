@@ -38,6 +38,7 @@ This repo only contais URLs
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ/videos)
+- [Anastasi In Tech](https://www.youtube.com/channel/UCDl5YK8CD2fY267VdDHLgfg/videos)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
 - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/videos)
