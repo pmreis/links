@@ -56,6 +56,7 @@ This repo only contais URLs
 - [Cleanerwatt](https://www.youtube.com/c/cleanerwatt/videos)
 - [Munro Live](https://www.youtube.com/c/MunroLive/videos)
 - [Autoline Network](https://www.youtube.com/channel/UCoBaFUmLRgc_-d-rkBCFyfQ/videos)
+- [Ben Sullins](https://www.youtube.com/channel/UCbEbf0-PoSuHD0TgMbxomDg/videos)
 - [BestInTESLA](https://www.youtube.com/c/BestInTESLA/videos)
 - [Hagerty](https://www.youtube.com/Hagerty/videos)
 - [The Carmudgeon Show](https://www.youtube.com/channel/UCik2k1L7hGaQGU6WY2F8oVg/videos)
