@@ -36,6 +36,7 @@ This repo only contais URLs
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
+- [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ/videos)
 - [Anastasi In Tech](https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw/videos)
