@@ -32,6 +32,7 @@ This repo only contais URLs
 ### Tech
 
 - [iPhonedo](https://www.youtube.com/c/iPhonedo/videos)
+- [Apple Explained](https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA/videos)
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
