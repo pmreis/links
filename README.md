@@ -53,6 +53,7 @@ This repo only contais URLs
 - [Electrified](https://www.youtube.com/channel/UCDl5YK8CD2fY267VdDHLgfg/videos)
 - [The Limiting Factor](https://www.youtube.com/channel/UCIFn7ONIJHyC-lMnb7Fm_jw/videos)
 - [Dr. Know-it-all Knows it all](https://www.youtube.com/c/DrKnowitallKnowsitall/videos)
+- [Dave Lee](https://www.youtube.com/channel/UCi2G5aQTN0YwGIfnt1u7Nbg/videos)
 - [The Electric Viking](https://www.youtube.com/channel/UCjzi56cxvmEDwjo1Bd2Yxpg/videos)
 - [Cleanerwatt](https://www.youtube.com/c/cleanerwatt/videos)
 - [Autoline Network](https://www.youtube.com/channel/UCoBaFUmLRgc_-d-rkBCFyfQ/videos)
