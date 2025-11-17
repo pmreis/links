@@ -31,15 +31,16 @@ This repo only contais URLs
 
 ### Tech
 
-- [iPhonedo](https://www.youtube.com/c/iPhonedo/videos)
+- [Techlore](https://www.youtube.com/channel/UC0W_BIuwk8D0Bv4THbVZZOQ/videos)
+- [Fireship](https://www.youtube.com/c/Fireship/videos)
+- [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Apple Explained](https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA/videos)
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips/videos)
-- [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ/videos)
-- [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ/videos)
+- [iPhonedo](https://www.youtube.com/c/iPhonedo/videos)
 - [Anastasi In Tech](https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw/videos)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA/videos)
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw/videos)
