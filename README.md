@@ -31,7 +31,7 @@ This repo only contais URLs
 
 ### Tech
 
-- [Techlore](https://www.youtube.com/channel/UC0W_BIuwk8D0Bv4THbVZZOQ/videos)
+- [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
 - [Apple Explained](https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA/videos)
