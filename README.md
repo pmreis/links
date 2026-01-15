@@ -23,6 +23,7 @@ This repo only contais URLs
 - [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA/videos)
 - [Theories of Everything](https://www.youtube.com/channel/UCdWIQh9DGG6uhJk8eyIFl1w/videos)
 - [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
+- [Kaizen Asiedu](https://www.youtube.com/channel/UCKtuOkd7sNE67dNEiRR85Ew/videos)
 - [Seeker](https://www.youtube.com/c/Seeker/videos)
 - [Vsauce](https://www.youtube.com/c/vsauce1/videos)
 - [Jeffrey Kaplan](https://www.youtube.com/channel/UC_hukbByJP7OZ3Xm2tszacQ/videos)
