@@ -69,7 +69,6 @@ This repo only contais URLs
 - [Tesla](https://www.youtube.com/channel/UC5WjFrtBdufl6CZojX3D8dQ/videos)
 - [The Tesla Space](https://www.youtube.com/channel/UCJjAIBWeY022ZNj_Cp_6wAw/videos)
 - [TeslaManuals](https://www.youtube.com/c/TeslaManuals/videos)
-- [Fully Charged Show](https://www.youtube.com/c/fullychargedshow/videos)
 - [Bjørn Nyland](https://www.youtube.com/user/bjornnyland/videos)
 - [Sam Alexander](https://www.youtube.com/c/SamAlexanderYouTube/videos)
 - [Transport Evolved](https://www.youtube.com/c/transportevolved/videos)
