@@ -32,9 +32,11 @@ This repo only contais URLs
 
 ### Tech
 
-- [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/videos)
+- [Theo - t3․gg](https://www.youtube.com/channel/UCbRP3c757lWg9M-U7TyEkXA/videos)
+- [Maxinomics](https://www.youtube.com/channel/UCUEmaeh13ai1ivT5wzz5Lhg/videos)
 - [Fireship](https://www.youtube.com/c/Fireship/videos)
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash/videos)
+- [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/videos)
 - [Apple Explained](https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA/videos)
 - [Billy Kyle](https://www.youtube.com/c/BillyKyle/videos)
 - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper/videos)
