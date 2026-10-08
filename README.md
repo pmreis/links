@@ -7,6 +7,7 @@ This repo only contais URLs
 ### Science
 
 - [Veritasium](https://www.youtube.com/c/veritasium/videos/?gl=IE&hl=en&persist_hl=1)
+- [InGenius](https://www.youtube.com/channel/UC1UmujXTizWokDHojdEOdow/videos/?gl=IE&hl=en&persist_hl=1)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos/?gl=IE&hl=en&persist_hl=1)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos/?gl=IE&hl=en&persist_hl=1)
 - [Eddie Woo](https://www.youtube.com/c/misterwootube/videos/?gl=IE&hl=en&persist_hl=1)
